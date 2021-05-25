@@ -15,7 +15,7 @@ Uma delas por exemplo seria controlar diversos utensílios domésticos direto pe
    - Controlar um sistema de som;
    - Elaborar alguns jogos de iluminação;
 
-Outra delas pode ser no quesito de segurança.
+Outra, pode ser no quesito de segurança.
    - Ter acesso as câmeras e alarmes;
    - Estabelecer um controle de acesso a casa por senha, digital, tag eletrônica, entre outros;
    - Definir um código de voz para ligar para a polícia, ambulância ou bombeiros em caso de emergência;
