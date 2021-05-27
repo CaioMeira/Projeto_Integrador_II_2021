@@ -9,7 +9,7 @@ Domótica é como se fosse uma "robótica" aplicada em um domicílio, é algo qu
 De diversas maneiras!
 
 Uma delas por exemplo seria controlar diversos utensílios domésticos direto pelo celular.
-   - Ligar e Desligar Lâmpadas;
+   - Ligar e desligar lâmpadas;
    - Abrir e fechar portões;
    - Definir um horário para ligar a cafeteira para ter um café na hora que acordar;
    - Controlar um sistema de som;
