@@ -19,7 +19,7 @@ A Planta Baixa do projeto foi desenvolvida no programa AutoCAD web.
 
 Nossa base de aplicação será uma residência com, 2 quartos, 2 banheiros, 1 cozinha, 1 despensa, 1 sala, 1 entrada e uma garagem.
 
-**Imagem 1:** Concept Drawing - versão 1
+**Imagem 1: Concept Drawing - versão 1** ![Concept Drawing - versão 1](https://github.com/CaioMeira/Projeto_Integrador_II_2021/blob/main/Imagens/Concept%20Drawing%20-%20vers%C3%A3o%201.png?raw=true)
 
 As funções de cada cômodo serão divididas da seguinte maneira:
 
@@ -31,5 +31,6 @@ As funções de cada cômodo serão divididas da seguinte maneira:
  - Garagem: Controle da Iluminação e do Acionamento do Portão;
  - Área Externa (Entrada): Controle de Iluminação por sensoriamento de presença.
 
-**Imagem 2:** Planta Baixa - versão 1
+**Imagem 2: Planta Baixa - versão 1** ![Planta Baixa - versão 1](https://github.com/CaioMeira/Projeto_Integrador_II_2021/blob/main/Imagens/Planta%20Baixa%20-%20vers%C3%A3o%201.png?raw=true)
+
 
