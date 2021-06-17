@@ -1,13 +1,13 @@
 # Projeto_Integrador_II_2021
 
-Meu nome é Caio Neves Meira e sou aluno do Curso de Engenharia Eletrônica Do Instituto Federal de Santa Catarina - Campûs Florianópolis.
+Meu nome é **Caio Neves Meira** e sou aluno do Curso de **Engenharia Eletrônica** Do Instituto Federal de Santa Catarina - Campûs Florianópolis.
 
-Este repositório é dedicado as atividades relacionadas a cadeira de Projeto Integrador II, Lecionado pelos professores:
+Este repositório é dedicado as atividades relacionadas a cadeira de **Projeto Integrador II**, Lecionado pelos professores:
  - Luiz Alberto de Azevedo
  - Moises Naison Rodrigues Oliveira
  - Renan Augusto Starke
 
-O projeto tem como tema: DOMÓTICA
+O projeto tem como tema: **DOMÓTICA**
 
 Caso queria saber um pouco mais sobre o projeto fique a vontade para acessar os arquivos a seguir:
 
