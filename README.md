@@ -1,7 +1,16 @@
 # Projeto_Integrador_II_2021
 
-Repositório dedicado as atividades relacionadas ao Projeto Integrador II, lecionado em 2021 na instituição IFSC.
+Meu nome é Caio Neves Meira e sou aluno do Curso de Engenharia Eletrônica Do Instituto Federal de Santa Catarina - Campûs Florianópolis.
 
-Aluno: Caio Neves Meira
+Este repositório é dedicado as atividades relacionadas a cadeira de Projeto Integrador II, Lecionado pelos professores:
+ - Luiz Alberto de Azevedo
+ - Moises Naison Rodrigues Oliveira
+ - Renan Augusto Starke
 
-Tema: Domótica
+O projeto tem como tema: DOMÓTICA
+
+Caso queria saber um pouco mais sobre o projeto fique a vontade para acessar os arquivos a seguir:
+
+- [Introdução]()
+- [Concept](https://github.com/CaioMeira/Projeto_Integrador_II_2021/blob/main/Concept.md)
+- [Imagens](https://github.com/CaioMeira/Projeto_Integrador_II_2021/tree/main/Imagens)
