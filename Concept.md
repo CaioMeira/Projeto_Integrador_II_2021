@@ -2,7 +2,7 @@
 
 Desenvolver um projeto de automação residencial, que visa trazer uma experiência prática simulada, de todo processo de idealização e aplicação da Domótica.
 
-## Método
+## Desenvolvimento
 
 Primeiramente devemos elaborar a planta baixa de uma residência que irá ser nossa base de aplicação, nela iremos:
 
