@@ -8,7 +8,7 @@ Mesmo com todos esses benefícios, a automação residencial não se tornou algo
 
 Mas não podemos negar que cada dia a domótica está se tornando algo mais acessível e comum, com ampla produção nacional, e vasta utilização em diversos novos edifícios, residências e condomínios, esse preço tende a baixar, o supérfulo vira o necessário, você já parou pra pensar que até pouco tempo atrás smartphones não tinham a relevância que têm hoje?
 
-E assim será em relação a Domótica, acredito que em poucos anos, será considerado arcaico uma residência não-automatizada. Com o desenvolvimento das inteligências artificiais, como a Alexa da Amazon, ou dando um exemplo nacional como a Izy da Intelbras, a automação tende a ser cada vez mais prática, já que no momento em que um software conseguir indentificar os gostos e costumes de cada pessoa com precisão, a personalização desses sistemas se tornará incrível.
+E assim será em relação a Domótica, acredito que em poucos anos, será considerado arcaico uma residência não-automatizada. Com o desenvolvimento das inteligências artificiais, como a Alexa da Amazon, a automação tende a ser cada vez mais prática, já que no momento em que um software conseguir indentificar os gostos e costumes de cada pessoa com precisão, a personalização desses sistemas se tornará incrível.
 
 Sem contar que cada vez os aparelhos se tornarão mais complexos e elaborados, e a praticidade de usa-los cada vez melhor, de modo que seja seu uso seja extremamente intuitivo, como uma conversa com a própria casa.
 
