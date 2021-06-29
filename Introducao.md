@@ -14,6 +14,19 @@ Sem contar que cada vez os aparelhos se tornarão mais complexos e elaborados, e
 
 Não podemos esquecer também da segurança que isso nos trás, o fato de poder conferir as câmeras de segurança remotamente para saber como estão as coisas, acompanhar o que seu pet está fazendo durante uma tarde sozinho em casa, ou até entregar um suporte a um idoso que não deseja de jeito nenhum abandonar sua independência, já que caso acontece alguma coisa, os próprios protocolos poderiam identificar uma situação de emergência e tomar as devidas providências. 
 
+![Casa Automatizada](https://github.com/CaioMeira/Projeto_Integrador_II_2021/blob/main/Imagens/Imagem%20%231.jpg)
+
+**Fonte: vivadecora**
+
+
+###Referências
+
+[vivadecora](https://www.vivadecora.com.br/pro/tecnologia/automacao-residencial/)
+
+[Delphini](https://www.delphini.com.br/2013/03/o-que-e-domotica.html)
+
+
+
 
 
 
