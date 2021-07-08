@@ -1,6 +1,7 @@
 # Objetivo:
 
-Desenvolver um projeto de automação residencial, que visa trazer uma experiência prática simulada, de todo processo de idealização e aplicação da Domótica.
+Elaborar um projeto de automação residencial que visa trazer uma experiência prática em relação ao desenvolvimento de um projeto, desde a parte de design, até o momento onde o projeto toma forma e sai do papel, ou melhor, do computador.
+Dando forma as idéias que tivemos durante todo o processo e conhecendo melhor, um pouco de cada ferramenta, que tinhámos a mão, e muitas vezes não sabiamos.
 
 ## Desenvolvimento
 
