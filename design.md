@@ -15,3 +15,15 @@ Componentes utilizados:
 - 1 Detector de fumaça
 - 1 Sensor de presença
 - 1 Arduíno MEGA
+
+
+
+
+
+
+
+
+
+
+
+Correção: Irei fazer a substituição do Arduíno UNO na imagem, pelo Arduíno MEGA.
