@@ -14,4 +14,4 @@ Componentes utilizados:
 - 1 Servo Motor
 - 1 Detector de fumaça
 - 1 Sensor de presença
-- 1 Arduíno UNO
+- 1 Arduíno MEGA
