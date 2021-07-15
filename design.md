@@ -10,7 +10,7 @@ Elaborado no Fritzing
 Componentes utilizados:
 
 - 9 Leds
-- 9 Resistores de 1k Ohms
+- 9 Resistores de 330 Ohms
 - 1 Servo Motor
 - 1 Detector de fumaça
 - 1 Sensor de presença
