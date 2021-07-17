@@ -19,7 +19,7 @@ Não podemos esquecer também da segurança que isso nos trás, o fato de poder 
 **Fonte: vivadecora**
 
 
-###Referências
+### Referências
 
 [vivadecora](https://www.vivadecora.com.br/pro/tecnologia/automacao-residencial/)
 
