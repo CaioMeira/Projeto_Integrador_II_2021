@@ -18,7 +18,7 @@ Sendo que o controle das funções deve ser efetuado **Remotamente**
 
 A Planta Baixa do projeto foi desenvolvida no programa AutoCAD web.
 
-Nossa base de aplicação será uma residência com, 2 quartos, 2 banheiros, 1 cozinha, 1 despensa, 1 sala, 1 entrada e uma garagem.
+Nossa base de aplicação será uma residência com, 2 quartos, 2 banheiros, 1 cozinha, 1 sala, 1 entrada e uma garagem.
 
 As funções de cada cômodo serão divididas da seguinte maneira:
 
