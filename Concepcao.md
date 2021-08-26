@@ -30,6 +30,6 @@ As funções de cada cômodo serão divididas da seguinte maneira:
  - Garagem: Controle da Iluminação e do Acionamento do Portão;
  - Área Externa (Entrada): Controle de Iluminação por sensoriamento de presença.
 
-**Imagem 1: Planta Baixa - versão 1** ![Planta Baixa - versão 1](https://github.com/CaioMeira/Projeto_Integrador_II_2021/blob/main/Imagens/Planta%20Baixa%20-%20vers%C3%A3o%201.png?raw=true)
+**Imagem 1: Planta Baixa - versão 1** ![Planta Baixa - versão 2](https://github.com/CaioMeira/Projeto_Integrador_II_2021/blob/main/Imagens/Planta%20Baixa%20-%20vers%C3%A3o%202.png)
 
 
