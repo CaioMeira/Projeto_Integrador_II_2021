@@ -25,7 +25,6 @@ As funções de cada cômodo serão divididas da seguinte maneira:
  - Quartos: Controle da Iluminação;
  - Banheiros: Controle da Iluminação;
  - Cozinha: Controle da Iluminação e Sensoriamento de Gás;
- - Despensa: Controle da Iluminação;
  - Sala: Controle da Iluminação;
  - Garagem: Controle da Iluminação e do Acionamento do Portão;
  - Área Externa (Entrada): Controle de Iluminação por sensoriamento de presença.
