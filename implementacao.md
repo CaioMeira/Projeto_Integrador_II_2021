@@ -28,9 +28,10 @@ Parâmetro final ficou como: MQ2_Limit = 750
 
 
 Para o PIR, havia três coisas para conferir:
->Tempo que ele fica ativo até desligar
->Distância máxima
->componente com defeito.
+
+-Tempo que ele fica ativo até desligar
+-Distância máxima
+-componente com defeito.
 
 Sendo os dois primeiros, "configurados" pelos potenciômetros presentes no mesmo.
 
