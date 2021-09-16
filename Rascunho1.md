@@ -24,7 +24,7 @@ if (MQ2_input > MQ2_Limit){
 Com isso fui elevando o valor do MQ2_Limit, até o ponto onde as condições normais do ambiente não acionassem o sensor,
 também adicionei uma margem um pouco maior, para evitar falsos alarmes.
 
-Parâmetro final ficou como: MQ2_Limit = 750
+Parâmetro final ficou como: MQ2_Limit = 250
 
 
 Para o PIR, havia três coisas para conferir:
