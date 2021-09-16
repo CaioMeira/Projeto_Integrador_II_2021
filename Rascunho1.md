@@ -1,6 +1,6 @@
 ### Implementação
 
-Dividi a implementação em três etapas: Teste, desenvolvimento e prototipagem.
+Dividi a implementação em duas etapas: desenvolvimento e prototipagem.
 
 #### Primeira Etapa: Teste 
 
