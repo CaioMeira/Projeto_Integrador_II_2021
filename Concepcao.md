@@ -10,7 +10,6 @@ Primeiramente devemos elaborar a planta baixa de uma residência que irá ser no
 - Controlar a Iluminação dos Cômodos;
 - Efetuar o sensoriamento de Gás de Cozinha;
 - Controlar um Portão com acionamento Eletrônico;
-- Fazer uso de sensor de presença;
 
 Sendo que o controle das funções deve ser efetuado **Remotamente**
 
@@ -27,7 +26,7 @@ As funções de cada cômodo serão divididas da seguinte maneira:
  - Cozinha: Controle da Iluminação e Sensoriamento de Gás;
  - Sala: Controle da Iluminação;
  - Garagem: Controle da Iluminação e do Acionamento do Portão;
- - Área Externa (Entrada): Controle de Iluminação por sensoriamento de presença.
+ - Área Externa (Entrada): Controle de Iluminação.
 
 **Imagem 1: Planta Baixa - versão 2**
 
