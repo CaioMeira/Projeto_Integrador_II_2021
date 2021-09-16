@@ -53,7 +53,7 @@ Só iria desligar caso o LED fosse atendido pelo próprio sensor.
 
 Porém não obtive sucesso.
 
-Os parâmentro foram trocados várias vezes, o código foi testado de maneiras diferentes, mas mesmo assim não obtive sucesso com o componente.
+Os parâmentros foram trocados várias vezes, o código foi testado de maneiras diferentes, mas mesmo assim não obtive sucesso com o componente.
 Em nenhum momento ele detectou alguma presença, então foi considerado um mal-funcionamento do componente, e o mesmo foi removido do projeto.
 
 Mas os parâmetros definidos seriam: 
