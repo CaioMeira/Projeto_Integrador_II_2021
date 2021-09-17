@@ -1,6 +1,6 @@
 ## Design
 
-A Fase design remete-se a parte de um projeto, onde definimos o corpo do nosso projeto, sendo ele:
+A fase **Design** remete-se a parte onde elaboramos uma idealização do projeto, como por exemplo:
  - Como será elaborado a maquete (materiais, idéias....);
  - Componentes utilizados (quantidade e especificações);
  - Mapeamento dos circuitos
