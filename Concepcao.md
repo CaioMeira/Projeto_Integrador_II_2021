@@ -10,6 +10,7 @@ Primeiramente devemos elaborar a planta baixa de uma residência que irá ser no
 - Controlar a Iluminação dos Cômodos;
 - Efetuar o sensoriamento de Gás de Cozinha;
 - Controlar um Portão com acionamento Eletrônico;
+- Efetuar o sensoriamento de Temperatura e Umidade.
 
 Sendo que o controle das funções deve ser efetuado **Remotamente**
 
