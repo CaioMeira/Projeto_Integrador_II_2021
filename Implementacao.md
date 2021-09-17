@@ -48,8 +48,8 @@ PIR_input = digitalRead(PIR);
     }
  ~~~
  
-A intenção deste código era fazer, a luz não desligar caso tenha sido acendida diretamente pelo comando do usuário, Ou seja,
-Só iria desligar caso o LED fosse atendido pelo próprio sensor.
+A intenção deste código era fazer, a luz não desligar caso tenha sido acendida diretamente pelo comando do usuário, ou seja,
+só iria desligar caso o LED fosse atendido pelo próprio sensor.
 
 Porém não obtive sucesso.
 
