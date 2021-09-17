@@ -57,8 +57,8 @@ Os parâmentros foram trocados várias vezes, o código foi testado de maneiras 
 Em nenhum momento ele detectou alguma presença, então foi considerado um mal-funcionamento do componente, e o mesmo foi removido do projeto.
 
 Mas os parâmetros definidos seriam: 
->Desativar após 5 segundos;
->Detectar presença entre aproximadamente 0 e 3 metros.
+- Desativar após 5 segundos;
+- Detectar presença entre aproximadamente 0 e 3 metros.
 
 Durante a elaboração do main code, código esse que unia todas as funções, sendo as funções usadas: control, e mq2
 
@@ -76,7 +76,7 @@ O código está presente no arquivo com nome maincode.ino na página inicial.
 Na etapa prototipagem, o sistema foi montado, para conferir se todas as funções estavam funcionando corretamente em conjunto.
 Como já esperávamos pelos testes, a função PIR, não está funcional, devido a um possível mal-funcionamento do componente, mas todas as outras funções funcionaram corretamente.
 
-Segue a lista de instruções para o usuário:
+## Mapeamento de Instruções para o usuário:
 
 - '1' = Led do Quarto 1
 - '2' = Led do Quarto 2
