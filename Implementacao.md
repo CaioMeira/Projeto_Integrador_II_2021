@@ -72,9 +72,17 @@ O código está presente no arquivo com nome maincode.ino na página inicial.
 
 ### Etapa 2: Prototipagem
 
+Na etapa prototipagem o projeto primeiramente foi montado apenas na protoboard, basicamente serviu para que o [Main Code](https://github.com/CaioMeira/Projeto_Integrador_II_2021/blob/main/main_code.ino) fosse testado devidamente, com todas as funções em conjunto, e foi aí que percebemos que precisariamos de uma fonte externa para o Servo motor, já que não havia corrente suficiente para todo os projeto.
 
-Na etapa prototipagem, o sistema foi montado, para conferir se todas as funções estavam funcionando corretamente em conjunto.
-Como já esperávamos pelos testes, a função PIR, não está funcional, devido a um possível mal-funcionamento do componente, mas todas as outras funções funcionaram corretamente.
+Após isso foi elaborado a confecção da Maquete, confesso que durante o processo, diversar vezes percebi que não tomei as melhores decisões, sendo elas compra dos fios, escala, fiação... e por ai vai.
+
+Mas é com os erros que se aprende.
+
+Continuando... Após a confecção da maquete foi implementado todos os componentes, e depois de diversos pequenos ajustes, o projeto estava pronto.
+
+Foto da Maquete: ![]()
+Vídeo da Maquete: [Video_1]()
+Vídeo do processo no computador: [Video_2]()
 
 ## Mapeamento de Instruções para o usuário:
 
