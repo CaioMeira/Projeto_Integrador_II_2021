@@ -29,24 +29,24 @@ Tema: Domótica
 DHT dht(DHTPIN, DHTTYPE);
 //------------------------Variáveis
 Servo s;
-int i = 0, c = 0, pos = 25;
-char keyboard = 0;
-int pinoservo = 31;
-const unsigned long duracao_MQ2 = 1000;
-unsigned long tempo_MQ2 = millis();
-int MQ2_input;
-int MQ2_Limit = 250;
+int c = 0, pos = 25; //variáveis para controle da posição do servo motor
+char keyboard = 0; //Usado como Hold para a tecla digitada pelo teclado.
+int pinoservo = 31; //atribuição do sinal lógico do servomotor.
+const unsigned long duracao_MQ2 = 1000; //duração do processo do sensor MQ2
+unsigned long tempo_MQ2 = millis(); //tempo que a função está em execução
+int MQ2_input; //Sinal recebido pelo MQ2
+int MQ2_Limit = 250; //Limite do sensor MQ2, (caso o valor captado passe 250, ele emite um sinal)
 
 //---------------------------------
 void setup() {
 
-  Serial.begin(9600);
+  Serial.begin(9600); // inicialização com tempo padrão para checar o recebimento de dados do teclado.
   while (!Serial);
   
-  s.attach(pinoservo);
-  s.write(25);
+  s.attach(pinoservo);    //inicialização do servomotor
+  s.write(25); //posição inicial do servo motor
 
-  dht.begin();
+  dht.begin(); //inicialização do sensor de temperatura e umidade
   
   pinMode(led_quarto1, OUTPUT);
   pinMode(led_quarto2, OUTPUT);
@@ -69,7 +69,7 @@ void control() {
     Serial.println(keyboard);
     
     if (keyboard == '1'){
-      digitalWrite(led_quarto1, !digitalRead(led_quarto1));
+      digitalWrite(led_quarto1, !digitalRead(led_quarto1));  //controle dos LEDS dos cômodos
       Serial.print("Status do LED do Quarto 1 alterado\n");
     }
     if (keyboard == '2'){
@@ -102,14 +102,14 @@ void control() {
     }
     
     if (keyboard == 'g'){
-      for(pos == 25 ; pos < 75; pos++){
+      for(pos == 25 ; pos < 75; pos++){   //Controle de Abertura do Portão
         c = pos;
         s.write(c);
         //delay(10);
       }
       Serial.print("portão aberto");
     }
-    if (keyboard == 'G'){
+    if (keyboard == 'G'){                 //Controle de Fechamento do Portão
       for(pos == 75; pos > 25; pos--){
         c = pos;
         s.write(c);
@@ -118,18 +118,18 @@ void control() {
       Serial.print("portão fechado");
     }
     if (keyboard == 'b'){
-      int MQ2_input = analogRead(MQ2);
+      int MQ2_input = analogRead(MQ2);         //Printar na tela valor recebido pelo MQ2
       Serial.print("Valor deterctado pelo sensor:   ");
       Serial.println(MQ2_input);
     }
     if (keyboard == 'n'){
-      float t = dht.readTemperature();
+      float t = dht.readTemperature();       //Printar valor da Temperatura
       Serial.print("Temperatura:   ");
       Serial.print(t);
       Serial.print("  °C");
     }
     if (keyboard == 'm'){
-      float h = dht.readHumidity();
+      float h = dht.readHumidity();        //printar valor da Umidade
       Serial.print("Umidade:   ");
       Serial.print(h);
     }
@@ -139,7 +139,7 @@ void control() {
 //----------------Sensor de Fumaça / Incêndio
 void mq2(unsigned long start_time) {
    
-    if(start_time - tempo_MQ2 > duracao_MQ2) {
+    if(start_time - tempo_MQ2 > duracao_MQ2) {     //executa a tarefa apenas se estiver dentro do tempo definido
 
       tempo_MQ2 = start_time;
       int MQ2_input = analogRead(MQ2);
@@ -159,10 +159,10 @@ void mq2(unsigned long start_time) {
 //------------------LOOP----------
 void loop(){
 
-  unsigned long timing = millis();
+  unsigned long timing = millis();      //atribui a "timing" o valor do tempo atual mantido em millis()
   
-  control();
-  mq2(timing);
+  control();  //inicia a função de controle por teclado
+  mq2(timing); //inicia a função de leitura do MQ2
   
 }
 //-------------------------------
