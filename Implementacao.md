@@ -80,13 +80,15 @@ Mas é com os erros que se aprende.
 
 Continuando... Após a confecção da maquete foi implementado todos os componentes, e depois de diversos pequenos ajustes, o projeto estava pronto.
 
-Foto 1 da Maquete: ![]()
+Fotos da Maquete pronta:
 
-Foto 2 da Maquete: ![]()
+![Foto 1](https://github.com/CaioMeira/Projeto_Integrador_II_2021/blob/main/Imagens/Foto_Maquete%201.jpg)
 
-Foto 3 da Maquete: ![]()
+![Foto 2](https://github.com/CaioMeira/Projeto_Integrador_II_2021/blob/main/Imagens/Foto_Maquete%202.jpg)
 
-Foto 4 da Maquete: ![]()
+![Foto 3](https://github.com/CaioMeira/Projeto_Integrador_II_2021/blob/main/Imagens/Foto_Maquete%203.jpg)
+
+![Foto 4](https://github.com/CaioMeira/Projeto_Integrador_II_2021/blob/main/Imagens/Foto_Maquete%204.jpg)
 
 Vídeo da Maquete: [Link Youtube](https://youtu.be/MbB66qjz00Y)
 
