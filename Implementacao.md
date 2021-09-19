@@ -80,11 +80,15 @@ Mas é com os erros que se aprende.
 
 Continuando... Após a confecção da maquete foi implementado todos os componentes, e depois de diversos pequenos ajustes, o projeto estava pronto.
 
-Foto da Maquete: ![]()
+Foto 1 da Maquete: ![]()
 
-Vídeo da Maquete: [Video_1]()
+Foto 2 da Maquete: ![]()
 
-Vídeo do processo no computador: [Video_2]()
+Foto 3 da Maquete: ![]()
+
+Foto 4 da Maquete: ![]()
+
+Vídeo da Maquete: [Link Youtube](https://youtu.be/MbB66qjz00Y)
 
 ## Mapeamento de Instruções para o usuário:
 
